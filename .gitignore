@@ -1,0 +1,11 @@
+# JetBrains IntelliJ IdeaIU
+/.idea/
+/quarkus-guides-root.iml
+/building-native-image/building-native-image.iml
+
+# Apache Maven
+/building-native-image/target/
+/getting-started/target/
+
+# Microsoft Visual Studio Code
+/.vscode/
